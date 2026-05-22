@@ -43,7 +43,7 @@ This project models **syngas (H₂ + CO) production** using a **self-supporting 
 ---
 
 ## 🚀 How to Use
-1. Open `ujjwla.apwz` in Aspen Plus.  
+1. Open `yash.apwz` in Aspen Plus.  
 2. Verify components and property method (ELECNRTL).  
 3. Run the simulation and check product stream compositions.  
 
