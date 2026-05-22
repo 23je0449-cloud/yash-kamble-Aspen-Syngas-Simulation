@@ -57,6 +57,6 @@ This project models **syngas (H₂ + CO) production** using a **self-supporting 
 ---
 
 ## 🔗 Author
-**[Ujjwal Chhablani]**  
+**[Yash Kamble]**  
 B.Tech Chemical Engineering, IIT (ISM) Dhanbad  
 
